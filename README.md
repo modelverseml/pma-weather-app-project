@@ -63,6 +63,10 @@ The PMA Weather App provides:
      ```bash
      cd pma_project/pma_project
      ```
+   - Move to the Django project and run the migrations:
+     ```bash
+     python3 manage.py migrate
+     ```
    - Run the server:
      ```bash
      python3 manage.py runserver
