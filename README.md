@@ -39,7 +39,7 @@ The PMA Weather App provides:
 4. **Install Node packages**:
    - Move to the React frontend folder:
      ```bash
-     cd pma_project_front_end
+     cd pma_project/fronend_react
      ```
    - Install dependencies:
      ```bash
@@ -57,8 +57,7 @@ The PMA Weather App provides:
 5. **Run Django server**:
    - Activate the virtual environment:
      ```bash
-     source venv/bin/activate   # Linux/Mac
-     venv\Scripts\activate      # Windows
+     source venv/bin/activate     
      ```
    - Move to the Django project folder:
      ```bash
