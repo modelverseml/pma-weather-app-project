@@ -1,0 +1,11 @@
+.full-page {
+  height: 100vh;
+  background-image: url('../images/weather_3.jpg');  
+  background-size :cover;                   
+  background-position: center;              
+  background-repeat: no-repeat;
+  align-items: right;
+  display: "flex";
+  justify-content: center;
+  height:'100%';
+}
